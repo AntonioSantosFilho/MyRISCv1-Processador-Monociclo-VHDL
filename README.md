@@ -6,7 +6,7 @@ Este projeto implementa um processador monociclo na arquitetura MIPS usando VHDL
 
 ## Pré-requisitos
 
-Para compilar e simular o projeto, você precisará de um ambiente VHDL adequado (por exemplo, Xilinx Vivado, ModelSim). Recomenda-se usar o EDAPlaygroun (simulador online que suporta várias linguagens de descrição de hardware).
+Para compilar e simular o projeto, você precisará de um ambiente VHDL adequado (por exemplo, Xilinx Vivado, ModelSim). Recomenda-se usar o EDAPlayground (simulador online que suporta várias linguagens de descrição de hardware).
 
 ## Como Usar
 
